@@ -1,0 +1,17 @@
+li {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+li em a {
+    font-size: x-large;
+    color: blue;
+}
+
+
+/*Enables to stylize in CSS sheet with a specific class/variable to stylize in html related for Bookworm */
+
+.example {
+    color: red;
+    font-weight: bold;
+}
