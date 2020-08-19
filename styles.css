@@ -15,3 +15,22 @@ li em a {
     color: red;
     font-weight: bold;
 }
+
+#footer {
+    font-size: small;
+    font-weight: bold;
+}
+
+
+/*when hovering over the link it turns the link orange */
+
+li em a:hover {
+    color: orange;
+    font-weight: small;
+    border: dashed 3px red;
+    background-color: grey;
+}
+
+a {
+    border-color: red;
+}
